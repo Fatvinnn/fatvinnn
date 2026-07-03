@@ -123,7 +123,7 @@ const alvin = {
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fatvinnn&theme=tokyonight&border_radius=12&date_format=j%20M%5B%20Y%5D" />
+<img src="https://streak-stats.demolab.com/?user=Fatvinnn&theme=tokyonight&border_radius=12&date_format=j%20M%5B%20Y%5D" />
 
 </div>
 
@@ -131,14 +131,16 @@ const alvin = {
 
 ---
 
-## 🐍 Contribution Snake
+## 🟩 Contribution Calendar
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fatvinnn/fatvinnn/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fatvinnn/fatvinnn/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Fatvinnn/fatvinnn/output/github-contribution-grid-snake.svg" />
-  </picture>
+
+<img src="https://ghchart.rshah.org/2dba4e/Fatvinnn" alt="Fatvinnn's GitHub Contribution Chart" width="100%" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fatvinnn&theme=tokyo-night&hide_border=true&area=true&area_color=2dba4e&color=2dba4e&line=2dba4e&point=ffffff" />
+
 </div>
 
 <br/>
@@ -170,6 +172,8 @@ const alvin = {
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://bolosewu.com)
 
 <br/>
+
+<img src="https://github-readme-quotes.vercel.app/quote?type=horizontal&theme=tokyonight&border=true&quoteCategory=programming" />
 
 </div>
 
