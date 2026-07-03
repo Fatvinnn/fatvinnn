@@ -171,8 +171,6 @@ const alvin = {
 
 <br/>
 
-<img src="https://github-readme-quotes.vercel.app/quote?type=horizontal&theme=tokyonight&border=true&quoteCategory=programming" />
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
