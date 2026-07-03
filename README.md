@@ -135,11 +135,11 @@ const alvin = {
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/2dba4e/Fatvinnn" alt="Fatvinnn's GitHub Contribution Chart" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fatvinnn&theme=tokyonight" width="100%" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fatvinnn&theme=tokyo-night&hide_border=true&area=true&area_color=2dba4e&color=2dba4e&line=2dba4e&point=ffffff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fatvinnn&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
